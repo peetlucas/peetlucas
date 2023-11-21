@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Shitote</h1>
-<h3 align="center">I am a full-stack software engineer with 10+ years’ experience in development of applications. </h3>
+<h3 align="center">I am a full-stack software engineer with 10+ years’ experience in development of applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peetlucas&label=Profile%20views&color=0e75b6&style=flat" alt="peetlucas" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/peter-shitote-a307b22a](https://www.linkedin.com/in/peter-shitote-a307b22a)
 
-- ⚡ Fun fact **:)**
+- ⚡ Fun fact **Enrico Fermi was the first recipient of a special award of $50,000 – which now bears his name – for work on the atom.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
